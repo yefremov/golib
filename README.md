@@ -5,15 +5,3 @@
 ## License
 
   [MIT](LICENSE)
-
-  # algorithms-with-go [![Build Status]() [![Go Report Card] [![GoDoc]
-``
-
-
-https://travis-ci.org/yefremov/golib.svg?branch=master
-https://travis-ci.org/yefremov/golib
-
-https://goreportcard.com/badge/github.com/yefremov/golib
-
-https://godoc.org/github.com/yefremov/golib?status.svg
-https://godoc.org/github.com/yefremov/golib

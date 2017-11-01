@@ -2,6 +2,7 @@ package golib
 
 import "sync"
 
+// Parallel ...
 func Parallel(n int, fn func()) {
 	var wg sync.WaitGroup
 	wg.Add(n)
